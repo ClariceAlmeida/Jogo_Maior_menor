@@ -8,7 +8,7 @@
 ## 👾 Projeto 
 Este projeto foi desenvolvido com base no curso [Ruby I: Lógica de programação com jogos](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-1, "Link do curso"), e foi meu primeiro contato com a linguagem Ruby.
 
-## 📖 Objetivos do curso
+## 📖 Aprendizados
 Através das aulas, o professor vai desenvolvendo um jogo com o aluno e abordando conceitos práticos e e de boas práticas da linguagem Ruby. Este, é o primeiro de uma série de cursos que compõe a formação de Ruby on Rails.
 Alguns conceitos abordados:
 * Condicionais e laços 
